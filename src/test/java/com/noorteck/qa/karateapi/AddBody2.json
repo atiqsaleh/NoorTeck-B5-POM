@@ -1,0 +1,18 @@
+{
+  "jobId": 2,
+  "jobTitle": "<title>",
+  "jobDescription": "<description>",
+  "experience": [
+    "<experience>"
+  ],
+  "project": [
+    {
+      "projectName": "<project_name>",
+      "technology": [
+        "Selenium",
+        "Java"
+      ]
+    }
+  ]
+}
+

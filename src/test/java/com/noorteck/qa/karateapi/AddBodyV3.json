@@ -1,0 +1,19 @@
+{
+"name":"test",
+"salary":"123",
+"age":"23",
+"contacts": [
+    "email1@yahoo.com"
+],
+"id":"XYz123",
+"address": {
+    "street":"1234 drive",
+    "city": "reston",
+    "state": "VA",
+    "postalCode": "10034"
+},
+"profile": {
+    "manager":"john",
+    "department":"QA"
+}
+ }

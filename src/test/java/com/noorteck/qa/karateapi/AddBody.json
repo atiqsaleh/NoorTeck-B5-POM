@@ -1,0 +1,18 @@
+{
+        "jobId": 5555,
+        "jobTitle": "BA-SDET-DEV",
+        "jobDescription": "automation",
+        "experience": [
+            "6 years"
+           
+        ],
+        "project": [
+            {
+                "projectName": "AWS",
+                "technology": [
+                    "Selenium",
+                    "Java"
+                ]
+            }
+        ]
+}
